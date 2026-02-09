@@ -16,7 +16,7 @@ print('its working')
 print('success')
 
 import os
-os.environ["HF_TOKEN"] = "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"
+os.environ["HF_TOKEN"] = ""
 
 import torch
 from datasets import load_dataset
