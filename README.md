@@ -3,7 +3,7 @@
 This repository contains my personal notes and hands-on implementations for fine-tuning and post-training Large Language Models (LLMs). The exercises are inspired by and collected from the DeepLearning.AI short course:
 
 **“Fine-tuning & Reinforcement Learning for LLMs: Intro to Post-training”**  
-https://learn.deeplearning.ai/courses/fine-tuning-and-reinforcement-learning-for-llms-intro-to-post-training[attached_file:1]
+https://learn.deeplearning.ai/courses/fine-tuning-and-reinforcement-learning-for-llms-intro-to-post-training
 
 ## What this repo covers
 
